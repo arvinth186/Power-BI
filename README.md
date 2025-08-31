@@ -76,12 +76,6 @@ Analyze KPIs & charts for actionable insights.
 📷 Screenshots
 
 
-🔮 Future Improvements
 
-Add forecasting using Power BI Analytics pane.
 
-Create RLS (Row-Level Security) for user-specific access.
-
-Connect to a live SQL database instead of static dataset.
-
-👉 This project demonstrates end-to-end BI development skills: data modeling, DAX, and insight storytelling.
+## 👉 This project demonstrates end-to-end BI development skills: data modeling, DAX, and insight storytelling.
