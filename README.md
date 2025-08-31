@@ -75,6 +75,8 @@ Analyze KPIs & charts for actionable insights.
 
 📷 Screenshots
 
+![Sales Dashboard](Sales%20Analysis%20Dashboard.png)
+
 
 
 
